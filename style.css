@@ -1,0 +1,40 @@
+body {
+  background-color: black;
+  color: white;
+  padding: 5% 10%;
+}
+a {
+  color: white;
+}
+
+.pic {
+  width: 50%;
+  margin: 175px 275px 0;
+}
+
+.middle {
+  position: relative;
+  bottom: 150px;
+}
+.description {
+  width: 650px;
+}
+.line {
+  width: 1050px;
+  height: 47px;
+  border-bottom: 3px solid silver;
+}
+.pause {
+  position: relative;
+  top: 30px;
+}
+.dot {
+  height: 15px;
+  width: 15px;
+  background-color: red;
+  border-radius: 50%;
+  display: inline-block;
+  position: relative;
+  bottom: 11px;
+  right: 20px;
+}
